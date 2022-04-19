@@ -1,0 +1,14 @@
+{
+    "python.formatting.provider": "black",
+    "python.analysis.extraPaths": [
+        "./lib/*/site-packages/",
+        "./lib/utils/",
+        "./models/exif/",
+
+    ],
+    "workbench.list.openMode": "doubleClick",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 100,
+    "python.analysis.indexing": false,
+    "git.ignoreLimitWarning": true,
+}
