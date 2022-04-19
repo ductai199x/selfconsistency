@@ -19,3 +19,4 @@ bin/
 share/
 etc/
 lib/python3.6/
+pyvenv.cfg
